@@ -2,6 +2,8 @@
 
 **Random-matrix analysis of strategy correlation matrices.**
 
+> Code behind [Eigenspectrum of the strategy correlation matrix](https://www.daru.finance/projects/strategy-rmt), one of the M-series models Daniel Gatto publishes on [daru.finance](https://www.daru.finance).
+
 Noise-vs-signal decomposition of sample correlation matrices over large populations
 of algorithmic trading strategies, using Marchenko–Pastur asymptotics and
 parallel-analysis permutation testing.
